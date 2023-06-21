@@ -1,0 +1,51 @@
+
+
+body{
+    background-color: rgb(211, 166, 98);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(255, 255, 255);
+    }
+    
+.common{
+    color: rgb(255, 255, 255);
+    border: 2px solid rgb(113, 85, 29);
+    position: absolute;
+}
+
+.header{
+    text-align: center;
+font-size: large;
+
+}
+
+.leftmenu{
+    z-index: 3;
+}
+
+.mainbody{
+    z-index: 2;
+    text-align: center;
+    list-style-position: inside;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.footer{ 
+text-align: center;
+}
+
+a:hover{
+    color:rgb(255, 255, 255)
+}
+
+.boldMe{
+    font-weight: bold;
+}
+
+.UnderlineMe{
+    text-decoration: underline;
+}
+
+a{
+    color:#333;
+}
